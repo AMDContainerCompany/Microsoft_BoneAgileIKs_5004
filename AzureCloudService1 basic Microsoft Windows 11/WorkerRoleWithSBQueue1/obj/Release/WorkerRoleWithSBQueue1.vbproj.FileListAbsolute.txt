@@ -1,0 +1,4 @@
+C:\Users\aydua\source\repos\AzureCloudService1 basic Microsoft Windows 11\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.vbprojAssemblyReference.cache
+C:\Users\aydua\source\repos\AzureCloudService1 basic Microsoft Windows 11\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.Resources.resources
+C:\Users\aydua\source\repos\AzureCloudService1 basic Microsoft Windows 11\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.vbproj.GenerateResource.cache
+C:\Users\aydua\source\repos\AzureCloudService1 basic Microsoft Windows 11\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.vbproj.CoreCompileInputs.cache

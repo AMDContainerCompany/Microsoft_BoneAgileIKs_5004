@@ -1,0 +1,2 @@
+C:\Users\aydua\source\repos\AzureCloudService1 basic Microsoft Windows 11\AzureCloudService1 basic Microsoft Windows 11\bin\Release\ServiceConfiguration.cscfg
+C:\Users\aydua\source\repos\AzureCloudService1 basic Microsoft Windows 11\AzureCloudService1 basic Microsoft Windows 11\bin\Release\ServiceDefinition.csdef
